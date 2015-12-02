@@ -55,10 +55,10 @@
 #include <linux/mtd/partitions.h>
 
 // no. of mB's to be left in the 'cache' partition
-#define CACHE_SIZE_LEAVE 3
+#define CACHE_SIZE_LEAVE 5
 
 // no. of mB's to be left in the 'userdata' partition
-#define USERDATA_SIZE_LEAVE 3
+#define USERDATA_SIZE_LEAVE 5
 
 // no. of mB's to be left in the 'devlog' partition
 #define DEVLOG_SIZE_LEAVE 1
